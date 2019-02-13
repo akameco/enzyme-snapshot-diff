@@ -1,0 +1,10 @@
+{
+  "extends": "@akameco/tsconfig",
+  "compilerOptions": {
+    "lib": ["dom", "es2015"],
+    "target": "es2015",
+    "module": "commonjs",
+    "skipLibCheck": true,
+    "outDir": "dest"
+  }
+}
