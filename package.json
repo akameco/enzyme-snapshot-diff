@@ -1,6 +1,6 @@
 {
   "name": "enzyme-snapshot-diff",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "snapshot-diff for enzyme",
   "license": "MIT",
   "repository": "akameco/enzyme-snapshot-diff",
